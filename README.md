@@ -10,4 +10,4 @@
 
 # 3 demo 演示
 
-[社区医院大数据](http://nijiaqi.cc/doctor-big-data-screen/test.html) 
+[社区医院大数据](http://nijiaqi.cc/doctor-big-data-screen/demo_test.html) 
