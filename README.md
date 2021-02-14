@@ -13,5 +13,5 @@
 [社区医院大数据](http://nijiaqi.cc/doctor-big-data-screen/demo_test.html) 
 
 # 4 即时通信 IM 小程序demo
-![在线聊天demo小程序](https://cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/product/im-new/css/img/applets.png)
+![在线聊天demo小程序](https://camo.githubusercontent.com/ad13e2ff72b444d61e7ae290df22dfb8cda0a1404a7a75f39cf18b5917e3faef/68747470733a2f2f636c6f756463616368652e74656e63656e742d636c6f75642e636f6d2f6f70656e5f70726f6a2f70726f6a5f71636c6f75645f76322f676174657761792f70726f647563742f696d2d6e65772f6373732f696d672f6170706c6574732e706e67)
 
